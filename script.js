@@ -21,7 +21,6 @@ function sommeSets(set1, set2) {
       sommeDifferent += set2[i];
     }
   }
-
   return {
     sommeCommun: sommeCommun,
     sommeDifferent: sommeDifferent,
